@@ -1,0 +1,26 @@
+.twelve.columns.header{
+  display: block;
+}
+.twelve.columns.city img{
+  float: left;
+  margin-right: 1em;
+}
+.twelve.columns.city p{
+  text-align: justify;
+}
+.six.columns{
+float: left;
+}
+.twelve.columns.hist{
+  float: left;
+}
+.three.columns{
+  float: left;
+}
+.three.columns img{
+  float: left;
+  margin-right:1em;
+}
+.three.columns p{
+  text-align: justify;
+}
